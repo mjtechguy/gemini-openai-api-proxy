@@ -6,6 +6,10 @@ It runs as a Docker container and is very easy to set up.
 
 Based on [openai-gemini](https://github.com/PublicAffairs/openai-gemini).
 
+Also, I am not a developer and I am not familiar with the best practices. I am just a user that wanted to use this service in a different way. If you have any suggestions, please let me know. 
+
+Also also, this thing may be buggy as hell...sooo...yeah.
+
 ## Security Warning
 
 This is a very simple proxy server and does not have any security features. It is not recommended to use this in a production environment or to be exposed to the internet. It is recommended to use this only for development purposes.
