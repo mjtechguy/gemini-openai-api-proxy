@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  app:
+    image: openai-gemini:latest
+    container_name: openai-gemini
+    ports:
+      - "8080:8080"
+    environment:
+      - NODE_ENV=production
