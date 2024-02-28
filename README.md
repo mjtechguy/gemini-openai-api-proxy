@@ -10,6 +10,17 @@ Also, I am not a developer and I am not familiar with the best practices. I am j
 
 Also also, this thing may be buggy as hell...sooo...yeah.
 
+- [Gemini OpenAI API Proxy](#gemini-openai-api-proxy)
+  - [Security Warning](#security-warning)
+  - [Pre-requisites](#pre-requisites)
+  - [Usage](#usage)
+    - [Starting Up](#starting-up)
+    - [Stopping](#stopping)
+  - [Testing](#testing)
+  - [Compatibility](#compatibility)
+  - [EndPoints](#endpoints)
+  - [Recognition](#recognition)
+
 ## Security Warning
 
 This is a very simple proxy server and does not have any security features. It is not recommended to use this in a production environment or to be exposed to the internet. It is recommended to use this only for development purposes.
