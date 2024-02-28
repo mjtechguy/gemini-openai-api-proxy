@@ -24,7 +24,7 @@ This is a very simple proxy server and does not have any security features. It i
 
 1. Clone this repository
 2. `cd` into the repository
-3. Run `docker-compose up -d`
+3. Run `docker-compose up --build -d`
 4. The server will be running on `http://0.0.0.0:8080`
 5. When you use another client to connect to the server, you will need to provide the Google API key as a Bearer token in the `Authorization` header.
 
